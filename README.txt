@@ -1,6 +1,6 @@
 #PacMen Factory 
 ## Exercise on PacMen Factory 
-<img src= "images/pacman1.png/" width ='300'/> 
+<img src= ".images/pacman1.png/" width ='300'/> 
 
 This exercise enables us to create PacMen with a click of a button and have each one of them move about the browser window at their own pace. 
 
