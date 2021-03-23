@@ -1,12 +1,16 @@
-#PacMen Factory 
+# PacMen Factory 
 ## Exercise on PacMen Factory 
 
+## Project Description
 This exercise enables us to create PacMen with a click of a button and have each one of them move about the browser window at their own pace. 
 
-How To Run: Download the files in the same repository and open up the index.html file in your browser. 
+## How to Run
+Download all the files from this repository into a directory on your local machine and open up the index.html file in your browser. 
 
+## Roadmap to Future Improvements
 Future improvements will include different images and styling with added components in the JavaScript File. 
 
+## License
 
 MIT License
 
@@ -21,11 +25,3 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
